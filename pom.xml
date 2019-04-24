@@ -50,9 +50,4 @@
 			</plugin>
 		</plugins>
 	</build>
-<repository>              
-          <id>central</id>
-          <name>Central</name>
-          <url>http://repo1.maven.org/maven2</url>
-</repository>
 </project>
